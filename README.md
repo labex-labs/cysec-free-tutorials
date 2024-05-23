@@ -6,8 +6,8 @@
 
 Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                               |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                              |
+|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Nmap Installation and Setup                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/nmap-installation-and-setup-280251)                                      |
 |      02 | 📖 Nmap Basic Command Syntax                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/nmap-basic-command-syntax-280247)                                        |
 |      03 | 📖 Amazonian TCP Scan Mastery                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/amazonian-tcp-scan-mastery-280263)                                       |
@@ -101,7 +101,8 @@ Gain practical skills in network mapping with Nmap, packet analysis with Wiresha
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cyber Security Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cyber Security Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
